@@ -1,0 +1,9 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="save">Save</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description</string>
+    <string name="sample_task">Sample Task</string>
+</resources>

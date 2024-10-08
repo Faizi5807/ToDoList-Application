@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_layout" type="id">main_layout</item>
+    <item name="recyclerViewTasks" type="id">recyclerViewTasks</item>
+    <item name="fabAddTask" type="id">fabAddTask</item>
+    <item name="logo" type="id">logo</item>
+</resources>
